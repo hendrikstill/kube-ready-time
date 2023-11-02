@@ -1,0 +1,53 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# IDE-specific
+.idea/
+.vscode/
+*.code-workspace
+
+# Environment-specific
+venv/
+env/
+__env/
+.env/
+
+# Dependency directories
+node_modules/
+bower_components/
+pypi/
+dist/
+build/
+target/
+
+# Compiled binary files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+*.swn?
+
+# Editor configuration files
+.editorconfig
+*.editorconfig
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+
+tmp/
